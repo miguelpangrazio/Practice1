@@ -1,6 +1,6 @@
 # Practice1
 just another repository
 
-I will use it to practice my SQL and Python skills
+I will use it to practice and Python skills for my new job
 
 
